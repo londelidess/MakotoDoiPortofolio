@@ -2144,7 +2144,6 @@ input, select, textarea {
 			.image.avatar img {
 				border-radius: 100%;
 				width: 100%;
-
 			}
 
 /* List */
@@ -2251,6 +2250,7 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1em;
 		padding-left: 0;
+		margin-top: 20px; 
 	}
 
 		ul.actions li {
@@ -3220,3 +3220,34 @@ input, select, textarea {
 			}
 
 	}
+
+
+/* skill icon */
+.col-2, .col-6-medium, .col-12-small {
+    text-align: center;
+    box-sizing: border-box;
+}
+.skill-icon {
+    max-width: 60px;
+    display: block;
+    margin: 0 auto 15px;
+}
+
+.skills {
+    display: grid;
+    gap: 20px;
+    grid-template-columns: repeat(4, 1fr);
+    margin: 20px 0;
+}
+
+@media only screen and (max-width: 1000px) {
+    .skills {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media only screen and (max-width: 650px) {
+    .skills {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
