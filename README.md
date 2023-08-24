@@ -5,7 +5,7 @@
 ![homepage3][def3]
 
 ## Description
-This is my first portfolio as a web developer. Thank you for visiting
+This is my first portfolio as a web developer. Thank you for visiting.
 
 ## Features
 Responsive Design: This portfolio is built to be viewed on all device sizes, from mobiles to desktops.
@@ -48,6 +48,7 @@ d.makoto0701@yahoo.com
 ## Acknowledgments
 
 HTML5 UP(https://html5up.net/): The design template of this portfolio was adapted from HTML5 UP. Their free responsive templates have been invaluable in the creation of this site.
+
 Formspree(https://formspree.io/): The contact form functionality was made possible using Formspree. It's a great tool for developers looking to add functional forms without a backend.
 
 I deeply appreciate the work of the creators and maintainers of these resources.
