@@ -14,13 +14,12 @@ Skills Showcase: Demonstrates proficiency in HTML, CSS, JavaScript, and more.
 
 Projects Section: A collection of notable projects completed with a live demo link
 s.
+
 Contact Form: A working form for potential clients or employers to reach out.
 
 Technologies Used
 HTML5
 CSS3
-
-*refereing template HTML5 UP(Strata)
 
 ## How to Navigate
 www.makotodoi.com
@@ -33,6 +32,7 @@ Formspree(https://formspree.io/): The contact form functionality was made possib
 
 I deeply appreciate the work of the creators and maintainers of these resources.
 
+---
 
 ## Content
 
@@ -43,7 +43,9 @@ Currently learning: TypeScript!
 
 ### About:
 I hold a degree in Japanese Literature from Sophia University, graduating in May 2020 in Japan and relocated to California later that year. I worked for a tennis instructor, an export freight Forwarder, and an elementary school teacher.
+
 My interest in web development was always present, but it was my move to the US that opened doors for me to truly immerse myself in it. I started exploring into web development in 2023, and since then, I've joyfully crafted projects from the ground up. I warmly invite you to view these projects, my cherished endeavors.
+
 Thank you for visiting my portfolio.
 
 ### Skills:
