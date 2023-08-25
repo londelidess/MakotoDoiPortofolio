@@ -9,9 +9,13 @@ This is my first portfolio as a web developer. Thank you for visiting.
 
 ## Features
 Responsive Design: This portfolio is built to be viewed on all device sizes, from mobiles to desktops.
+
 Skills Showcase: Demonstrates proficiency in HTML, CSS, JavaScript, and more.
-Projects Section: A collection of notable projects, complete with source code and live demo links.
+
+Projects Section: A collection of notable projects completed with a live demo link
+s.
 Contact Form: A working form for potential clients or employers to reach out.
+
 Technologies Used
 HTML5
 CSS3
@@ -20,6 +24,15 @@ CSS3
 
 ## How to Navigate
 www.makotodoi.com
+
+## Acknowledgments
+
+HTML5 UP(https://html5up.net/): The design template of this portfolio was adapted from HTML5 UP. Their free responsive templates have been invaluable in the creation of this site.
+
+Formspree(https://formspree.io/): The contact form functionality was made possible using Formspree. It's a great tool for developers looking to add functional forms without a backend.
+
+I deeply appreciate the work of the creators and maintainers of these resources.
+
 
 ## Content
 
@@ -44,17 +57,6 @@ Ecommerce Website for Toy "PLAYBOX"/ Social Network Service "Bumblr" /Booking We
 d.makoto0701@yahoo.com
 [LinkedIn profile](https://www.linkedin.com/in/makoto-doi/)
 [GitHub profile](https://github.com/londelidess)
-
-## Acknowledgments
-
-HTML5 UP(https://html5up.net/): The design template of this portfolio was adapted from HTML5 UP. Their free responsive templates have been invaluable in the creation of this site.
-
-Formspree(https://formspree.io/): The contact form functionality was made possible using Formspree. It's a great tool for developers looking to add functional forms without a backend.
-
-I deeply appreciate the work of the creators and maintainers of these resources.
-
-
-
 
 
 [def]: ./images/portfolio1.png
