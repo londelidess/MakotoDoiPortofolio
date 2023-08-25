@@ -5,7 +5,7 @@
 ![homepage3][def3]
 
 ## Description
-This is my first portfolio as a web developer. Thank you for visiting.
+Welcome to my web developer portfolio! As a passionate Full-Stack JS/Python Developer, I've meticulously crafted this space to showcase my skills, projects, and journey in web development. From responsive designs to dynamic web applications, dive in to see the culmination of my learnings and experiences in the tech world. I appreciate your visit and invite you to explore further.
 
 ## Features
 Responsive Design: This portfolio is built to be viewed on all device sizes, from mobiles to desktops.
