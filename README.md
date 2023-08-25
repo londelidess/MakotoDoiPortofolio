@@ -10,10 +10,10 @@ This is my first portfolio as a web developer. Thank you for visiting.
 ## Features
 Responsive Design: This portfolio is built to be viewed on all device sizes, from mobiles to desktops.
 
-Skills Showcase: Demonstrates proficiency in HTML, CSS, JavaScript, and more.
-
 Projects Section: A collection of notable projects completed with a live demo link
 s.
+
+Skills Showcase: Demonstrates proficiency in HTML, CSS, JavaScript, and more.
 
 Contact Form: A working form for potential clients or employers to reach out.
 
