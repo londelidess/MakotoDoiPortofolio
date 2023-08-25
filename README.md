@@ -19,7 +19,7 @@ CSS3
 *refereing template HTML5 UP(Strata)
 
 ## How to Navigate
-https://github.com/londelidess/MakotoDoiPortofolio
+www.makotodoi.com
 
 ## Content
 
