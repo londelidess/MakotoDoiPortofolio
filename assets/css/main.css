@@ -3256,3 +3256,21 @@ input, select, textarea {
         margin: 20px 0;
     }
 }
+
+@media screen and (max-width: 736px) {
+    .labeled-icons li {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+    }
+    .labeled-icons li h3 {
+        margin: 0;
+        padding: 0;
+    }
+    .labeled-icons li span {
+        margin: 0;
+        padding: 0;
+    }
+}

@@ -6,11 +6,35 @@
 -->
 <html>
 	<head>
-		<title>Makoto Doi:</title>
+		<title>Makoto Doi: Portfolio</title>
 		<meta charset="utf-8" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<link rel="icon" href="images/makoto-doi-website-favicon-color.png" />
+		<script>
+			window.addEventListener('resize', function () {
+				var width = window.innerWidth;
+				var labeledIcons = document.querySelectorAll('.labeled-icons li');
+
+				if (width <= 736) {
+					labeledIcons.forEach(function (li) {
+						li.style.display = 'flex';
+						li.style.flexDirection = 'column';
+						li.style.alignItems = 'center';
+					});
+				} else {
+					labeledIcons.forEach(function (li) {
+						li.style.display = '';
+						li.style.flexDirection = '';
+						li.style.alignItems = '';
+					});
+				}
+			});
+
+			// Run once on load
+			window.dispatchEvent(new Event('resize'));
+		</script>
+
 	</head>
 	<body class="is-preload">
 
@@ -212,6 +236,7 @@
 					</ul>
 					<ul class="copyright">
 						<!-- <li>&copy; Untitled</li> -->
+						<li>© 2023 | Coded by Makoto Doi</li>
 						<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
 					</ul>
 				</div>
